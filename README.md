@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Gaurav! <br/><a href="https://github.com/gparakh102">I have a Masters degree in Information Systems Security</a>, <a href="https://www.linkedin.com/in/gaurav-parakh/">and until now my most valuable accomplishment is to have demolished the CISSP exam at age 24 with only 1 year of work experience when 5 years is recommended</a>
+<h1>Hello there! I'm <a href="https://github.com/gparakh102">Gaurav</a><br/>Armed with a <a href="https://www.linkedin.com/in/gaurav-parakh/">Masters in Information Systems Security</a>, I proudly conquered the<a href=> CISSP </a>exam at age 24, all while harnessing just a year of professional experience
 
 <h2>👨‍💻 Related Projects:</h2>
 
