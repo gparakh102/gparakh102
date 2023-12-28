@@ -1,4 +1,4 @@
-<h1>Hello there! I'm <a href="https://github.com/gparakh102">Gaurav</a><br/>Armed with a <a href="https://www.linkedin.com/in/gaurav-parakh/">Masters in Information Systems Security</a>, I proudly conquered the<a href=> CISSP </a>exam at age 24, all while harnessing just a year of professional experience
+<h1>Hello there! I'm <a href="https://github.com/gparakh102">Gaurav</a><br/>Armed with a <a href="https://www.linkedin.com/in/gaurav-parakh/">Masters in Information Systems Security</a>, I proudly conquered the<a href=https://github.com/gparakh102/gparakh102/files/13789660/4.CISSP.exam.Success.pdf> CISSP </a>exam at age 24, all while harnessing just a year of professional experience
 
 <h2>👨‍💻 Related Projects:</h2>
 
