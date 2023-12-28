@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gaurav! <br/><a href="https://github.com/gparakh102">MEng. in Information Systems Security</a>, <a href="https://www.linkedin.com/in/gaurav-parakh/">Demolished the CISSP exam at age 24 with only 1 year of work experience!</a>
+<h1>Hey there, I'm Gaurav! <br/><a href="https://github.com/gparakh102">MEng. in Information Systems Security</a>, <a href="https://www.linkedin.com/in/gaurav-parakh/">Demolished the CISSP exam at age 24 with only 1 year of work experience!</a>
 
 <h2>👨‍💻 Related Projects:</h2>
 
