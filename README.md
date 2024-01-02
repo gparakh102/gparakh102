@@ -4,8 +4,8 @@
 
 - <b>Active Directory Home Lab Administration</b>
   - [Steps](https://github.com/gparakh102/Active-Directory)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Azure Sentinel map with live cyber attacks</b>
+  - [Steps](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
