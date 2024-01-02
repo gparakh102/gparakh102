@@ -3,7 +3,7 @@
 <h2>👨‍💻 Related Projects:</h2>
 
 - <b>Active Directory Home Lab Administration</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Steps](https://github.com/gparakh102/Active-Directory)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
