@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab Administration</b>
   - [Steps](https://github.com/gparakh102/Active-Directory)
 - <b>Azure Sentinel map with live cyber attacks</b>
-  - [Steps](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Steps](https://github.com/gparakh102/Azure-Sentinel)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
