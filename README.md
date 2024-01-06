@@ -6,6 +6,8 @@
   - [Steps](https://github.com/gparakh102/Active-Directory)
 - <b>Azure Sentinel map with live cyber attacks</b>
   - [Steps](https://github.com/gparakh102/Azure-Sentinel)
+- <b>Wazuh Open source SIEM Malware detection</b>
+  - [Steps](https://github.com/gparakh102/Wazuh-Virustotal-malware-detection)
 
 <h2>👨‍💻 Certifications:</h2>
 
