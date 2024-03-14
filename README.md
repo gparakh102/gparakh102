@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>ISC2 Associate</b>
+- <b>Associate of ISC2 </b>
   - Credential (https://www.credly.com/badges/583fc6f0-b98f-46c1-8894-661ea8c04df3/linked_in_profile)
 - <b>CompTIA Security+ (sy0-601)</b>
   - Credential (https://www.credly.com/badges/ba9b4641-eb27-41bf-b23c-c5b781d33a4b/linked_in_profile)
