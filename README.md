@@ -9,7 +9,7 @@
 - <b>Wazuh Open source SIEM Malware detection</b>
   - [Steps](https://github.com/gparakh102/Wazuh-Virustotal-malware-detection)
 - <b>DNS query Suspicious Acttivity Analysis</b>
-  - [Steps](https://github.com/gparakh102/Wazuh-Virustotal-malware-detection)
+  - [Steps](https://github.com/gparakh102/DNS-quesry-Suspicious-Activity)
 
 <h2>👨‍💻 Certifications:</h2>
 
