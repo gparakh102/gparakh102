@@ -8,6 +8,8 @@
   - [Steps](https://github.com/gparakh102/Azure-Sentinel)
 - <b>Wazuh Open source SIEM Malware detection</b>
   - [Steps](https://github.com/gparakh102/Wazuh-Virustotal-malware-detection)
+- <b>DNS query Suspicious Acttivity Analysis</b>
+  - [Steps](https://github.com/gparakh102/Wazuh-Virustotal-malware-detection)
 
 <h2>👨‍💻 Certifications:</h2>
 
