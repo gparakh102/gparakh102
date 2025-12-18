@@ -38,7 +38,7 @@
 - <b>ISC2 Exam Developer</b>
   - <i>Timeline: </i><br />
     June 2023 - July 2023 (https://www.credly.com/badges/808f5eac-c6e0-42ac-a883-fd54cb2f5923/linked_in_profile)<br />
-    Jan 2024 - Feb 2024 (Ongoing)
+    Jan 2024 - Present (Ongoing)
 
 
 
